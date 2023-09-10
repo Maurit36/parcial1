@@ -1,4 +1,4 @@
 package co.edu.uniquindio.parcial1.model;
 
-public class Model1 {
+public class Atraccion {
 }
